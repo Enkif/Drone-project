@@ -1,0 +1,11 @@
+Category,Component,Manufacturer,Manufacturer_Location,Customer,Customer_Location,Manfacture Model,Battery subcomponent
+Battery,Intelligent Battery Pack,BYD,"Dongguan, China",DJI,"Shenzhen, China",Mavic 3,lipo cells
+Battery,Smart battery,Li-Ion Power Labs,Germany,DJI,"Shenzhen, China",DJI Mini 4 Pro,lipo cells
+Battery,Intelligent Battery Pack,Panasonic Energy,"Osaka, Japan",Parrot,"Paris, France",Anafi Ai,lithium-ion cells
+Battery,High-capacity battery module,LG Energy Solution,"Seoul, South Korea",Skydio,"San Mateo, USA",Skydio X2,lithium-ion cells
+Battery,Smart battery,CATL,"Ningde, China",Autel Robotics,"Shenzhen, China",EVO II Pro,lipo cells
+Battery,Intelligent Battery Pack,Samsung SDI,"Suwon, South Korea",Yuneec,"Jinhua, China",Typhoon H3,lipo cells
+Battery,Rugged battery pack,EnerNext Batteries,"Austin, USA",Freefly Systems,"Woodinville, USA",Alta X,high-rate li-ion cells
+Battery,Smart battery,SkyCharge Batteries,"Dublin, Ireland",Wingcopter,"Weiterstadt, Germany",Wingcopter 198,lithium-ion cells
+Battery,Long-endurance battery pack,DroneVolt Cells,"Lyon, France",Zipline,"South San Francisco, USA",Zipline P2,high-energy li-ion cells
+Battery,Intelligent Battery Pack,PowerNova,"Shenzhen, China",DJI,"Shenzhen, China",Matrice 350 RTK,lipo cells
