@@ -1,4 +1,4 @@
-Category,Component,Manufacturer,Manufacturer_Location,Customer,Customer_Location,Manfacture Model,Battery subcomponent
+Category,Component,Manufacture,Manufacturer_Location,Customer,Customer_Location,Manfacture Model,Battery subcomponent
 Battery,Intelligent Battery Pack,BYD,"Dongguan, China",DJI,"Shenzhen, China",Mavic 3,lipo cells
 Battery,Smart battery,Li-Ion Power Labs,Germany,DJI,"Shenzhen, China",DJI Mini 4 Pro,lipo cells
 Battery,Intelligent Battery Pack,Panasonic Energy,"Osaka, Japan",Parrot,"Paris, France",Anafi Ai,lithium-ion cells
