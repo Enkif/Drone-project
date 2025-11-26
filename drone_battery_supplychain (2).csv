@@ -599,3 +599,403 @@ Battery,High-capacity battery module,SkyCharge Batteries,"Dublin, Ireland",Freef
 Battery,Long-endurance battery pack,Samsung SDI,"Suwon, South Korea",Freefly Systems,"Woodinville, USA",Matrice 350 RTK,high-energy li-ion cells
 Battery,Rugged battery pack,OceanCell,"Rotterdam, Netherlands",Freefly Systems,"Woodinville, USA",Anafi USA,high-rate li-ion cells
 Battery,Long-endurance battery pack,Samsung SDI,"Suwon, South Korea",Yuneec,"Jinhua, China",Zipline P2,high-energy li-ion cells
+Battery,High-capacity battery module,LG Energy Solution,"Seoul, South Korea",Wingcopter,"Weiterstadt, Germany",Anafi Ai,lithium-ion cells
+Battery,Hybrid battery module,OceanCell,"Rotterdam, Netherlands",Autel Robotics,"Shenzhen, China",EVO II Pro,hybrid li-ion cells
+Battery,High-capacity battery module,AeroLith Labs,"San Jose, USA",Zipline,"South San Francisco, USA",Dragonfish,lithium-ion cells
+Battery,Smart battery,DroneVolt Cells,"Lyon, France",Autel Robotics,"Shenzhen, China",H520E,lipo cells
+Battery,Hybrid battery module,Panasonic Energy,"Osaka, Japan",Yuneec,"Jinhua, China",NETRA V4,hybrid li-ion cells
+Battery,Hybrid battery module,LG Energy Solution,"Seoul, South Korea",Freefly Systems,"Woodinville, USA",Anafi USA,hybrid li-ion cells
+Battery,Rugged battery pack,SkyCharge Batteries,"Dublin, Ireland",Freefly Systems,"Woodinville, USA",Matrice 350 RTK,high-rate li-ion cells
+Battery,Long-endurance battery pack,OceanCell,"Rotterdam, Netherlands",Zipline,"South San Francisco, USA",Skydio 2+,high-energy li-ion cells
+Battery,Smart battery,SkyCharge Batteries,"Dublin, Ireland",Zipline,"South San Francisco, USA",Mavic 3,lipo cells
+Battery,Intelligent Battery Pack,FutureVolt,"Bangalore, India",Autel Robotics,"Shenzhen, China",EVO II Pro,lipo cells
+Battery,Long-endurance battery pack,AeroLith Labs,"San Jose, USA",Wingcopter,"Weiterstadt, Germany",EVO II Pro,high-energy li-ion cells
+Battery,High-capacity battery module,LG Energy Solution,"Seoul, South Korea",Wingcopter,"Weiterstadt, Germany",Anafi Ai,lithium-ion cells
+Battery,Long-endurance battery pack,PolarEnergy,"Reykjavik, Iceland",Parrot,"Paris, France",Mavic 3,high-energy li-ion cells
+Battery,Hybrid battery module,Panasonic Energy,"Osaka, Japan",Autel Robotics,"Shenzhen, China",Zipline P2,hybrid li-ion cells
+Battery,Rugged battery pack,AeroLith Labs,"San Jose, USA",Parrot,"Paris, France",Dragonfish,high-rate li-ion cells
+Battery,Smart battery,EnerNext Batteries,"Austin, USA",DJI,"Shenzhen, China",Alta X,lipo cells
+Battery,Rugged battery pack,DroneVolt Cells,"Lyon, France",Yuneec,"Jinhua, China",Wingcopter 198,high-rate li-ion cells
+Battery,High-capacity battery module,SkyCharge Batteries,"Dublin, Ireland",Parrot,"Paris, France",Skydio 2+,lithium-ion cells
+Battery,Smart battery,LG Energy Solution,"Seoul, South Korea",ideaForge,"Mumbai, India",Dragonfish,lipo cells
+Battery,Smart battery,CATL,"Ningde, China",Zipline,"South San Francisco, USA",Astro,lipo cells
+Battery,High-capacity battery module,LG Energy Solution,"Seoul, South Korea",Zipline,"South San Francisco, USA",EVO Max 4T,lithium-ion cells
+Battery,Rugged battery pack,BYD,"Dongguan, China",ideaForge,"Mumbai, India",Mavic 3,high-rate li-ion cells
+Battery,Rugged battery pack,Samsung SDI,"Suwon, South Korea",Zipline,"South San Francisco, USA",Typhoon H3,high-rate li-ion cells
+Battery,Hybrid battery module,SkyCharge Batteries,"Dublin, Ireland",Wingcopter,"Weiterstadt, Germany",Astro,hybrid li-ion cells
+Battery,Hybrid battery module,FutureVolt,"Bangalore, India",Yuneec,"Jinhua, China",H520E,hybrid li-ion cells
+Battery,High-capacity battery module,Samsung SDI,"Suwon, South Korea",Parrot,"Paris, France",Skydio 2+,lithium-ion cells
+Battery,Rugged battery pack,CATL,"Ningde, China",Autel Robotics,"Shenzhen, China",EVO Max 4T,high-rate li-ion cells
+Battery,Smart battery,CATL,"Ningde, China",Skydio,"San Mateo, USA",Alta X,lipo cells
+Battery,High-capacity battery module,BYD,"Dongguan, China",Wingcopter,"Weiterstadt, Germany",Skydio 2+,lithium-ion cells
+Battery,High-capacity battery module,PolarEnergy,"Reykjavik, Iceland",ideaForge,"Mumbai, India",Anafi Ai,lithium-ion cells
+Battery,Hybrid battery module,CATL,"Ningde, China",Freefly Systems,"Woodinville, USA",Skydio 2+,hybrid li-ion cells
+Battery,Smart battery,PolarEnergy,"Reykjavik, Iceland",Freefly Systems,"Woodinville, USA",H520E,lipo cells
+Battery,Hybrid battery module,AeroLith Labs,"San Jose, USA",Freefly Systems,"Woodinville, USA",Astro,hybrid li-ion cells
+Battery,Long-endurance battery pack,LG Energy Solution,"Seoul, South Korea",Freefly Systems,"Woodinville, USA",Typhoon H3,high-energy li-ion cells
+Battery,Hybrid battery module,EnerNext Batteries,"Austin, USA",Wingcopter,"Weiterstadt, Germany",DJI Mini 4 Pro,hybrid li-ion cells
+Battery,Smart battery,BYD,"Dongguan, China",Skydio,"San Mateo, USA",Skydio 2+,lipo cells
+Battery,Long-endurance battery pack,Samsung SDI,"Suwon, South Korea",Parrot,"Paris, France",Typhoon H3,high-energy li-ion cells
+Battery,Long-endurance battery pack,BYD,"Dongguan, China",Parrot,"Paris, France",H520E,high-energy li-ion cells
+Battery,Hybrid battery module,OceanCell,"Rotterdam, Netherlands",Zipline,"South San Francisco, USA",EVO II Pro,hybrid li-ion cells
+Battery,Hybrid battery module,EnerNext Batteries,"Austin, USA",DJI,"Shenzhen, China",NETRA V4,hybrid li-ion cells
+Battery,Long-endurance battery pack,PolarEnergy,"Reykjavik, Iceland",Wingcopter,"Weiterstadt, Germany",Skydio 2+,high-energy li-ion cells
+Battery,Hybrid battery module,FutureVolt,"Bangalore, India",Wingcopter,"Weiterstadt, Germany",Matrice 350 RTK,hybrid li-ion cells
+Battery,Intelligent Battery Pack,Panasonic Energy,"Osaka, Japan",DJI,"Shenzhen, China",DJI Air 3,lipo cells
+Battery,High-capacity battery module,AeroLith Labs,"San Jose, USA",Yuneec,"Jinhua, China",Dragonfish,lithium-ion cells
+Battery,Intelligent Battery Pack,Panasonic Energy,"Osaka, Japan",DJI,"Shenzhen, China",EVO II Pro,lipo cells
+Battery,Intelligent Battery Pack,BYD,"Dongguan, China",Skydio,"San Mateo, USA",Anafi USA,lipo cells
+Battery,High-capacity battery module,SkyCharge Batteries,"Dublin, Ireland",DJI,"Shenzhen, China",Alta X,lithium-ion cells
+Battery,High-capacity battery module,Samsung SDI,"Suwon, South Korea",Autel Robotics,"Shenzhen, China",Zipline P2,lithium-ion cells
+Battery,Smart battery,Panasonic Energy,"Osaka, Japan",Yuneec,"Jinhua, China",Matrice 350 RTK,lipo cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",ideaForge,"Mumbai, India",Alta X,high-rate li-ion cells
+Battery,Rugged battery pack,PolarEnergy,"Reykjavik, Iceland",Wingcopter,"Weiterstadt, Germany",EVO Max 4T,high-rate li-ion cells
+Battery,Intelligent Battery Pack,DroneVolt Cells,"Lyon, France",ideaForge,"Mumbai, India",Anafi USA,lipo cells
+Battery,Smart battery,FutureVolt,"Bangalore, India",DJI,"Shenzhen, China",Skydio X2,lipo cells
+Battery,Hybrid battery module,DroneVolt Cells,"Lyon, France",Yuneec,"Jinhua, China",Skydio 2+,hybrid li-ion cells
+Battery,Hybrid battery module,PolarEnergy,"Reykjavik, Iceland",Freefly Systems,"Woodinville, USA",EVO Max 4T,hybrid li-ion cells
+Battery,Smart battery,LG Energy Solution,"Seoul, South Korea",Zipline,"South San Francisco, USA",DJI Mini 4 Pro,lipo cells
+Battery,Rugged battery pack,EnerNext Batteries,"Austin, USA",DJI,"Shenzhen, China",Typhoon H3,high-rate li-ion cells
+Battery,Long-endurance battery pack,PolarEnergy,"Reykjavik, Iceland",Autel Robotics,"Shenzhen, China",H520E,high-energy li-ion cells
+Battery,Smart battery,CATL,"Ningde, China",Yuneec,"Jinhua, China",Mavic 3,lipo cells
+Battery,Smart battery,PolarEnergy,"Reykjavik, Iceland",Wingcopter,"Weiterstadt, Germany",Wingcopter 198,lipo cells
+Battery,High-capacity battery module,SkyCharge Batteries,"Dublin, Ireland",Zipline,"South San Francisco, USA",H520E,lithium-ion cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",DJI,"Shenzhen, China",Wingcopter 198,high-rate li-ion cells
+Battery,Hybrid battery module,AeroLith Labs,"San Jose, USA",Zipline,"South San Francisco, USA",DJI Mini 4 Pro,hybrid li-ion cells
+Battery,Hybrid battery module,OceanCell,"Rotterdam, Netherlands",Parrot,"Paris, France",EVO II Pro,hybrid li-ion cells
+Battery,Smart battery,PolarEnergy,"Reykjavik, Iceland",Yuneec,"Jinhua, China",Matrice 350 RTK,lipo cells
+Battery,Hybrid battery module,OceanCell,"Rotterdam, Netherlands",Yuneec,"Jinhua, China",Dragonfish,hybrid li-ion cells
+Battery,Hybrid battery module,BYD,"Dongguan, China",Skydio,"San Mateo, USA",Matrice 350 RTK,hybrid li-ion cells
+Battery,Hybrid battery module,DroneVolt Cells,"Lyon, France",Parrot,"Paris, France",NETRA V4,hybrid li-ion cells
+Battery,High-capacity battery module,OceanCell,"Rotterdam, Netherlands",Autel Robotics,"Shenzhen, China",Typhoon H3,lithium-ion cells
+Battery,Long-endurance battery pack,CATL,"Ningde, China",Freefly Systems,"Woodinville, USA",NETRA V4,high-energy li-ion cells
+Battery,Intelligent Battery Pack,Samsung SDI,"Suwon, South Korea",DJI,"Shenzhen, China",EVO II Pro,lipo cells
+Battery,Long-endurance battery pack,AeroLith Labs,"San Jose, USA",Autel Robotics,"Shenzhen, China",Anafi Ai,high-energy li-ion cells
+Battery,Hybrid battery module,LG Energy Solution,"Seoul, South Korea",Skydio,"San Mateo, USA",DJI Air 3,hybrid li-ion cells
+Battery,Rugged battery pack,BYD,"Dongguan, China",Freefly Systems,"Woodinville, USA",Anafi USA,high-rate li-ion cells
+Battery,Hybrid battery module,BYD,"Dongguan, China",Parrot,"Paris, France",Dragonfish,hybrid li-ion cells
+Battery,Rugged battery pack,Panasonic Energy,"Osaka, Japan",Yuneec,"Jinhua, China",Typhoon H3,high-rate li-ion cells
+Battery,Smart battery,FutureVolt,"Bangalore, India",DJI,"Shenzhen, China",EVO II Pro,lipo cells
+Battery,Intelligent Battery Pack,Panasonic Energy,"Osaka, Japan",Wingcopter,"Weiterstadt, Germany",Anafi Ai,lipo cells
+Battery,Long-endurance battery pack,Panasonic Energy,"Osaka, Japan",Parrot,"Paris, France",Matrice 350 RTK,high-energy li-ion cells
+Battery,Long-endurance battery pack,EnerNext Batteries,"Austin, USA",Skydio,"San Mateo, USA",Anafi USA,high-energy li-ion cells
+Battery,High-capacity battery module,AeroLith Labs,"San Jose, USA",DJI,"Shenzhen, China",NETRA V4,lithium-ion cells
+Battery,Rugged battery pack,AeroLith Labs,"San Jose, USA",Autel Robotics,"Shenzhen, China",EVO Max 4T,high-rate li-ion cells
+Battery,Intelligent Battery Pack,Panasonic Energy,"Osaka, Japan",Autel Robotics,"Shenzhen, China",Zipline P2,lipo cells
+Battery,High-capacity battery module,OceanCell,"Rotterdam, Netherlands",Parrot,"Paris, France",DJI Air 3,lithium-ion cells
+Battery,High-capacity battery module,BYD,"Dongguan, China",Freefly Systems,"Woodinville, USA",Anafi USA,lithium-ion cells
+Battery,Long-endurance battery pack,Panasonic Energy,"Osaka, Japan",Autel Robotics,"Shenzhen, China",Astro,high-energy li-ion cells
+Battery,Intelligent Battery Pack,BYD,"Dongguan, China",Yuneec,"Jinhua, China",H520E,lipo cells
+Battery,Long-endurance battery pack,DroneVolt Cells,"Lyon, France",ideaForge,"Mumbai, India",H520E,high-energy li-ion cells
+Battery,High-capacity battery module,PolarEnergy,"Reykjavik, Iceland",ideaForge,"Mumbai, India",NETRA V4,lithium-ion cells
+Battery,High-capacity battery module,OceanCell,"Rotterdam, Netherlands",Skydio,"San Mateo, USA",Typhoon H3,lithium-ion cells
+Battery,Hybrid battery module,Panasonic Energy,"Osaka, Japan",Parrot,"Paris, France",Astro,hybrid li-ion cells
+Battery,Rugged battery pack,FutureVolt,"Bangalore, India",Yuneec,"Jinhua, China",Anafi Ai,high-rate li-ion cells
+Battery,Hybrid battery module,AeroLith Labs,"San Jose, USA",Freefly Systems,"Woodinville, USA",H520E,hybrid li-ion cells
+Battery,Long-endurance battery pack,SkyCharge Batteries,"Dublin, Ireland",Wingcopter,"Weiterstadt, Germany",Dragonfish,high-energy li-ion cells
+Battery,High-capacity battery module,LG Energy Solution,"Seoul, South Korea",Autel Robotics,"Shenzhen, China",Alta X,lithium-ion cells
+Battery,Intelligent Battery Pack,AeroLith Labs,"San Jose, USA",Zipline,"South San Francisco, USA",Anafi Ai,lipo cells
+Battery,Hybrid battery module,CATL,"Ningde, China",DJI,"Shenzhen, China",Alta X,hybrid li-ion cells
+Battery,Intelligent Battery Pack,PolarEnergy,"Reykjavik, Iceland",Skydio,"San Mateo, USA",Mavic 3,lipo cells
+Battery,Hybrid battery module,CATL,"Ningde, China",ideaForge,"Mumbai, India",Typhoon H3,hybrid li-ion cells
+Battery,High-capacity battery module,Samsung SDI,"Suwon, South Korea",DJI,"Shenzhen, China",Wingcopter 198,lithium-ion cells
+Battery,High-capacity battery module,DroneVolt Cells,"Lyon, France",Zipline,"South San Francisco, USA",Dragonfish,lithium-ion cells
+Battery,Rugged battery pack,Panasonic Energy,"Osaka, Japan",Zipline,"South San Francisco, USA",Skydio 2+,high-rate li-ion cells
+Battery,Rugged battery pack,CATL,"Ningde, China",Parrot,"Paris, France",Dragonfish,high-rate li-ion cells
+Battery,Smart battery,AeroLith Labs,"San Jose, USA",Skydio,"San Mateo, USA",Alta X,lipo cells
+Battery,Hybrid battery module,OceanCell,"Rotterdam, Netherlands",Skydio,"San Mateo, USA",Mavic 3,hybrid li-ion cells
+Battery,Hybrid battery module,Panasonic Energy,"Osaka, Japan",Autel Robotics,"Shenzhen, China",NETRA V4,hybrid li-ion cells
+Battery,Smart battery,Samsung SDI,"Suwon, South Korea",ideaForge,"Mumbai, India",Dragonfish,lipo cells
+Battery,High-capacity battery module,AeroLith Labs,"San Jose, USA",Zipline,"South San Francisco, USA",Mavic 3,lithium-ion cells
+Battery,Hybrid battery module,DroneVolt Cells,"Lyon, France",Zipline,"South San Francisco, USA",Skydio 2+,hybrid li-ion cells
+Battery,Rugged battery pack,EnerNext Batteries,"Austin, USA",Parrot,"Paris, France",Mavic 3,high-rate li-ion cells
+Battery,Long-endurance battery pack,CATL,"Ningde, China",DJI,"Shenzhen, China",Typhoon H3,high-energy li-ion cells
+Battery,Intelligent Battery Pack,EnerNext Batteries,"Austin, USA",Freefly Systems,"Woodinville, USA",Skydio X2,lipo cells
+Battery,Rugged battery pack,BYD,"Dongguan, China",DJI,"Shenzhen, China",EVO Max 4T,high-rate li-ion cells
+Battery,Long-endurance battery pack,SkyCharge Batteries,"Dublin, Ireland",Zipline,"South San Francisco, USA",Mavic 3,high-energy li-ion cells
+Battery,Long-endurance battery pack,FutureVolt,"Bangalore, India",Zipline,"South San Francisco, USA",Skydio X2,high-energy li-ion cells
+Battery,High-capacity battery module,BYD,"Dongguan, China",Yuneec,"Jinhua, China",Dragonfish,lithium-ion cells
+Battery,Rugged battery pack,Samsung SDI,"Suwon, South Korea",Skydio,"San Mateo, USA",Typhoon H3,high-rate li-ion cells
+Battery,Hybrid battery module,FutureVolt,"Bangalore, India",Freefly Systems,"Woodinville, USA",DJI Air 3,hybrid li-ion cells
+Battery,Hybrid battery module,CATL,"Ningde, China",Freefly Systems,"Woodinville, USA",Wingcopter 198,hybrid li-ion cells
+Battery,Long-endurance battery pack,Panasonic Energy,"Osaka, Japan",Parrot,"Paris, France",Matrice 350 RTK,high-energy li-ion cells
+Battery,Rugged battery pack,BYD,"Dongguan, China",DJI,"Shenzhen, China",Dragonfish,high-rate li-ion cells
+Battery,Hybrid battery module,PolarEnergy,"Reykjavik, Iceland",ideaForge,"Mumbai, India",Wingcopter 198,hybrid li-ion cells
+Battery,Intelligent Battery Pack,CATL,"Ningde, China",Yuneec,"Jinhua, China",Skydio 2+,lipo cells
+Battery,Smart battery,DroneVolt Cells,"Lyon, France",Wingcopter,"Weiterstadt, Germany",Skydio X2,lipo cells
+Battery,Long-endurance battery pack,EnerNext Batteries,"Austin, USA",Freefly Systems,"Woodinville, USA",NETRA V4,high-energy li-ion cells
+Battery,Intelligent Battery Pack,AeroLith Labs,"San Jose, USA",Yuneec,"Jinhua, China",Skydio X2,lipo cells
+Battery,Intelligent Battery Pack,AeroLith Labs,"San Jose, USA",Wingcopter,"Weiterstadt, Germany",Skydio X2,lipo cells
+Battery,High-capacity battery module,FutureVolt,"Bangalore, India",Parrot,"Paris, France",NETRA V4,lithium-ion cells
+Battery,Hybrid battery module,FutureVolt,"Bangalore, India",Freefly Systems,"Woodinville, USA",Anafi USA,hybrid li-ion cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",ideaForge,"Mumbai, India",NETRA V4,high-rate li-ion cells
+Battery,Smart battery,PolarEnergy,"Reykjavik, Iceland",Wingcopter,"Weiterstadt, Germany",Typhoon H3,lipo cells
+Battery,High-capacity battery module,LG Energy Solution,"Seoul, South Korea",Freefly Systems,"Woodinville, USA",Dragonfish,lithium-ion cells
+Battery,High-capacity battery module,PolarEnergy,"Reykjavik, Iceland",Parrot,"Paris, France",H520E,lithium-ion cells
+Battery,Intelligent Battery Pack,DroneVolt Cells,"Lyon, France",Autel Robotics,"Shenzhen, China",Dragonfish,lipo cells
+Battery,Long-endurance battery pack,Samsung SDI,"Suwon, South Korea",Yuneec,"Jinhua, China",H520E,high-energy li-ion cells
+Battery,Smart battery,Samsung SDI,"Suwon, South Korea",Yuneec,"Jinhua, China",EVO II Pro,lipo cells
+Battery,Intelligent Battery Pack,EnerNext Batteries,"Austin, USA",Autel Robotics,"Shenzhen, China",Skydio 2+,lipo cells
+Battery,Rugged battery pack,Samsung SDI,"Suwon, South Korea",ideaForge,"Mumbai, India",Skydio X2,high-rate li-ion cells
+Battery,Smart battery,CATL,"Ningde, China",DJI,"Shenzhen, China",Dragonfish,lipo cells
+Battery,Smart battery,EnerNext Batteries,"Austin, USA",Zipline,"South San Francisco, USA",Matrice 350 RTK,lipo cells
+Battery,Rugged battery pack,DroneVolt Cells,"Lyon, France",ideaForge,"Mumbai, India",Anafi Ai,high-rate li-ion cells
+Battery,Long-endurance battery pack,FutureVolt,"Bangalore, India",Wingcopter,"Weiterstadt, Germany",EVO Max 4T,high-energy li-ion cells
+Battery,Intelligent Battery Pack,LG Energy Solution,"Seoul, South Korea",Autel Robotics,"Shenzhen, China",EVO II Pro,lipo cells
+Battery,High-capacity battery module,OceanCell,"Rotterdam, Netherlands",DJI,"Shenzhen, China",EVO Max 4T,lithium-ion cells
+Battery,Long-endurance battery pack,CATL,"Ningde, China",ideaForge,"Mumbai, India",Typhoon H3,high-energy li-ion cells
+Battery,Rugged battery pack,FutureVolt,"Bangalore, India",Yuneec,"Jinhua, China",Anafi Ai,high-rate li-ion cells
+Battery,Smart battery,CATL,"Ningde, China",Freefly Systems,"Woodinville, USA",NETRA V4,lipo cells
+Battery,Long-endurance battery pack,EnerNext Batteries,"Austin, USA",Freefly Systems,"Woodinville, USA",Astro,high-energy li-ion cells
+Battery,Long-endurance battery pack,SkyCharge Batteries,"Dublin, Ireland",Autel Robotics,"Shenzhen, China",DJI Mini 4 Pro,high-energy li-ion cells
+Battery,Hybrid battery module,AeroLith Labs,"San Jose, USA",Skydio,"San Mateo, USA",Zipline P2,hybrid li-ion cells
+Battery,Intelligent Battery Pack,LG Energy Solution,"Seoul, South Korea",Parrot,"Paris, France",H520E,lipo cells
+Battery,Intelligent Battery Pack,EnerNext Batteries,"Austin, USA",Parrot,"Paris, France",Anafi Ai,lipo cells
+Battery,Hybrid battery module,FutureVolt,"Bangalore, India",Skydio,"San Mateo, USA",Anafi Ai,hybrid li-ion cells
+Battery,High-capacity battery module,AeroLith Labs,"San Jose, USA",Skydio,"San Mateo, USA",EVO Max 4T,lithium-ion cells
+Battery,Smart battery,Samsung SDI,"Suwon, South Korea",ideaForge,"Mumbai, India",Astro,lipo cells
+Battery,Smart battery,Samsung SDI,"Suwon, South Korea",Parrot,"Paris, France",Skydio X2,lipo cells
+Battery,Intelligent Battery Pack,EnerNext Batteries,"Austin, USA",DJI,"Shenzhen, China",Typhoon H3,lipo cells
+Battery,Intelligent Battery Pack,EnerNext Batteries,"Austin, USA",Skydio,"San Mateo, USA",Anafi Ai,lipo cells
+Battery,Intelligent Battery Pack,LG Energy Solution,"Seoul, South Korea",Parrot,"Paris, France",Anafi Ai,lipo cells
+Battery,Hybrid battery module,CATL,"Ningde, China",Zipline,"South San Francisco, USA",Matrice 350 RTK,hybrid li-ion cells
+Battery,Smart battery,FutureVolt,"Bangalore, India",Parrot,"Paris, France",DJI Air 3,lipo cells
+Battery,Rugged battery pack,EnerNext Batteries,"Austin, USA",Freefly Systems,"Woodinville, USA",DJI Mini 4 Pro,high-rate li-ion cells
+Battery,Intelligent Battery Pack,FutureVolt,"Bangalore, India",ideaForge,"Mumbai, India",EVO II Pro,lipo cells
+Battery,Hybrid battery module,PolarEnergy,"Reykjavik, Iceland",Yuneec,"Jinhua, China",DJI Air 3,hybrid li-ion cells
+Battery,Rugged battery pack,BYD,"Dongguan, China",ideaForge,"Mumbai, India",EVO II Pro,high-rate li-ion cells
+Battery,Rugged battery pack,OceanCell,"Rotterdam, Netherlands",Freefly Systems,"Woodinville, USA",Matrice 350 RTK,high-rate li-ion cells
+Battery,Long-endurance battery pack,Samsung SDI,"Suwon, South Korea",Parrot,"Paris, France",EVO Max 4T,high-energy li-ion cells
+Battery,Long-endurance battery pack,OceanCell,"Rotterdam, Netherlands",DJI,"Shenzhen, China",H520E,high-energy li-ion cells
+Battery,Smart battery,LG Energy Solution,"Seoul, South Korea",DJI,"Shenzhen, China",Mavic 3,lipo cells
+Battery,Smart battery,SkyCharge Batteries,"Dublin, Ireland",Freefly Systems,"Woodinville, USA",Astro,lipo cells
+Battery,High-capacity battery module,FutureVolt,"Bangalore, India",Yuneec,"Jinhua, China",Astro,lithium-ion cells
+Battery,Hybrid battery module,DroneVolt Cells,"Lyon, France",Autel Robotics,"Shenzhen, China",Mavic 3,hybrid li-ion cells
+Battery,Hybrid battery module,Panasonic Energy,"Osaka, Japan",Zipline,"South San Francisco, USA",EVO Max 4T,hybrid li-ion cells
+Battery,Hybrid battery module,OceanCell,"Rotterdam, Netherlands",Skydio,"San Mateo, USA",Mavic 3,hybrid li-ion cells
+Battery,Hybrid battery module,DroneVolt Cells,"Lyon, France",Zipline,"South San Francisco, USA",Dragonfish,hybrid li-ion cells
+Battery,Intelligent Battery Pack,Samsung SDI,"Suwon, South Korea",Zipline,"South San Francisco, USA",Skydio X2,lipo cells
+Battery,Intelligent Battery Pack,FutureVolt,"Bangalore, India",Parrot,"Paris, France",Anafi Ai,lipo cells
+Battery,Hybrid battery module,PolarEnergy,"Reykjavik, Iceland",Skydio,"San Mateo, USA",NETRA V4,hybrid li-ion cells
+Battery,Hybrid battery module,EnerNext Batteries,"Austin, USA",Skydio,"San Mateo, USA",DJI Mini 4 Pro,hybrid li-ion cells
+Battery,Intelligent Battery Pack,LG Energy Solution,"Seoul, South Korea",Wingcopter,"Weiterstadt, Germany",NETRA V4,lipo cells
+Battery,Rugged battery pack,CATL,"Ningde, China",Parrot,"Paris, France",H520E,high-rate li-ion cells
+Battery,High-capacity battery module,LG Energy Solution,"Seoul, South Korea",Zipline,"South San Francisco, USA",Dragonfish,lithium-ion cells
+Battery,Long-endurance battery pack,FutureVolt,"Bangalore, India",Yuneec,"Jinhua, China",Dragonfish,high-energy li-ion cells
+Battery,Hybrid battery module,PolarEnergy,"Reykjavik, Iceland",DJI,"Shenzhen, China",NETRA V4,hybrid li-ion cells
+Battery,Smart battery,LG Energy Solution,"Seoul, South Korea",Freefly Systems,"Woodinville, USA",NETRA V4,lipo cells
+Battery,Rugged battery pack,OceanCell,"Rotterdam, Netherlands",Autel Robotics,"Shenzhen, China",Astro,high-rate li-ion cells
+Battery,High-capacity battery module,LG Energy Solution,"Seoul, South Korea",DJI,"Shenzhen, China",Zipline P2,lithium-ion cells
+Battery,Long-endurance battery pack,CATL,"Ningde, China",DJI,"Shenzhen, China",EVO II Pro,high-energy li-ion cells
+Battery,Hybrid battery module,DroneVolt Cells,"Lyon, France",Freefly Systems,"Woodinville, USA",EVO Max 4T,hybrid li-ion cells
+Battery,Smart battery,BYD,"Dongguan, China",Yuneec,"Jinhua, China",DJI Air 3,lipo cells
+Battery,Long-endurance battery pack,SkyCharge Batteries,"Dublin, Ireland",Freefly Systems,"Woodinville, USA",EVO II Pro,high-energy li-ion cells
+Battery,Smart battery,Panasonic Energy,"Osaka, Japan",Wingcopter,"Weiterstadt, Germany",Dragonfish,lipo cells
+Battery,Smart battery,PolarEnergy,"Reykjavik, Iceland",ideaForge,"Mumbai, India",Anafi Ai,lipo cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",Zipline,"South San Francisco, USA",Anafi USA,high-rate li-ion cells
+Battery,High-capacity battery module,BYD,"Dongguan, China",ideaForge,"Mumbai, India",DJI Air 3,lithium-ion cells
+Battery,Long-endurance battery pack,LG Energy Solution,"Seoul, South Korea",Wingcopter,"Weiterstadt, Germany",Astro,high-energy li-ion cells
+Battery,Long-endurance battery pack,LG Energy Solution,"Seoul, South Korea",Yuneec,"Jinhua, China",Wingcopter 198,high-energy li-ion cells
+Battery,Rugged battery pack,EnerNext Batteries,"Austin, USA",Parrot,"Paris, France",Zipline P2,high-rate li-ion cells
+Battery,High-capacity battery module,LG Energy Solution,"Seoul, South Korea",Wingcopter,"Weiterstadt, Germany",DJI Air 3,lithium-ion cells
+Battery,Rugged battery pack,CATL,"Ningde, China",Freefly Systems,"Woodinville, USA",NETRA V4,high-rate li-ion cells
+Battery,Hybrid battery module,Panasonic Energy,"Osaka, Japan",Yuneec,"Jinhua, China",Matrice 350 RTK,hybrid li-ion cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",Freefly Systems,"Woodinville, USA",Zipline P2,high-rate li-ion cells
+Battery,Intelligent Battery Pack,DroneVolt Cells,"Lyon, France",Yuneec,"Jinhua, China",Skydio 2+,lipo cells
+Battery,Intelligent Battery Pack,SkyCharge Batteries,"Dublin, Ireland",ideaForge,"Mumbai, India",NETRA V4,lipo cells
+Battery,Smart battery,PolarEnergy,"Reykjavik, Iceland",Parrot,"Paris, France",Anafi Ai,lipo cells
+Battery,Rugged battery pack,AeroLith Labs,"San Jose, USA",Autel Robotics,"Shenzhen, China",Typhoon H3,high-rate li-ion cells
+Battery,Smart battery,EnerNext Batteries,"Austin, USA",ideaForge,"Mumbai, India",Mavic 3,lipo cells
+Battery,Hybrid battery module,AeroLith Labs,"San Jose, USA",ideaForge,"Mumbai, India",Anafi USA,hybrid li-ion cells
+Battery,Intelligent Battery Pack,SkyCharge Batteries,"Dublin, Ireland",DJI,"Shenzhen, China",Wingcopter 198,lipo cells
+Battery,Intelligent Battery Pack,PolarEnergy,"Reykjavik, Iceland",DJI,"Shenzhen, China",Typhoon H3,lipo cells
+Battery,Hybrid battery module,EnerNext Batteries,"Austin, USA",Skydio,"San Mateo, USA",Zipline P2,hybrid li-ion cells
+Battery,High-capacity battery module,SkyCharge Batteries,"Dublin, Ireland",ideaForge,"Mumbai, India",Mavic 3,lithium-ion cells
+Battery,Smart battery,DroneVolt Cells,"Lyon, France",Skydio,"San Mateo, USA",Mavic 3,lipo cells
+Battery,Intelligent Battery Pack,LG Energy Solution,"Seoul, South Korea",Yuneec,"Jinhua, China",Skydio X2,lipo cells
+Battery,Smart battery,DroneVolt Cells,"Lyon, France",Parrot,"Paris, France",Wingcopter 198,lipo cells
+Battery,High-capacity battery module,CATL,"Ningde, China",Wingcopter,"Weiterstadt, Germany",Anafi USA,lithium-ion cells
+Battery,Rugged battery pack,CATL,"Ningde, China",DJI,"Shenzhen, China",Mavic 3,high-rate li-ion cells
+Battery,Hybrid battery module,LG Energy Solution,"Seoul, South Korea",Wingcopter,"Weiterstadt, Germany",Anafi USA,hybrid li-ion cells
+Battery,Intelligent Battery Pack,Samsung SDI,"Suwon, South Korea",Freefly Systems,"Woodinville, USA",Dragonfish,lipo cells
+Battery,Long-endurance battery pack,FutureVolt,"Bangalore, India",Autel Robotics,"Shenzhen, China",EVO II Pro,high-energy li-ion cells
+Battery,Long-endurance battery pack,Samsung SDI,"Suwon, South Korea",Parrot,"Paris, France",Skydio X2,high-energy li-ion cells
+Battery,Smart battery,AeroLith Labs,"San Jose, USA",Wingcopter,"Weiterstadt, Germany",EVO II Pro,lipo cells
+Battery,Long-endurance battery pack,LG Energy Solution,"Seoul, South Korea",Autel Robotics,"Shenzhen, China",EVO Max 4T,high-energy li-ion cells
+Battery,Intelligent Battery Pack,FutureVolt,"Bangalore, India",Autel Robotics,"Shenzhen, China",NETRA V4,lipo cells
+Battery,Intelligent Battery Pack,CATL,"Ningde, China",Wingcopter,"Weiterstadt, Germany",Skydio 2+,lipo cells
+Battery,Rugged battery pack,Panasonic Energy,"Osaka, Japan",Zipline,"South San Francisco, USA",Dragonfish,high-rate li-ion cells
+Battery,Intelligent Battery Pack,CATL,"Ningde, China",ideaForge,"Mumbai, India",Alta X,lipo cells
+Battery,Rugged battery pack,EnerNext Batteries,"Austin, USA",Autel Robotics,"Shenzhen, China",Anafi Ai,high-rate li-ion cells
+Battery,Smart battery,CATL,"Ningde, China",DJI,"Shenzhen, China",Skydio X2,lipo cells
+Battery,Intelligent Battery Pack,Samsung SDI,"Suwon, South Korea",Yuneec,"Jinhua, China",Skydio X2,lipo cells
+Battery,Smart battery,Samsung SDI,"Suwon, South Korea",Freefly Systems,"Woodinville, USA",Wingcopter 198,lipo cells
+Battery,Hybrid battery module,EnerNext Batteries,"Austin, USA",Yuneec,"Jinhua, China",DJI Air 3,hybrid li-ion cells
+Battery,Rugged battery pack,SkyCharge Batteries,"Dublin, Ireland",Parrot,"Paris, France",NETRA V4,high-rate li-ion cells
+Battery,Smart battery,LG Energy Solution,"Seoul, South Korea",Zipline,"South San Francisco, USA",NETRA V4,lipo cells
+Battery,Intelligent Battery Pack,LG Energy Solution,"Seoul, South Korea",Wingcopter,"Weiterstadt, Germany",Zipline P2,lipo cells
+Battery,Intelligent Battery Pack,EnerNext Batteries,"Austin, USA",Wingcopter,"Weiterstadt, Germany",Skydio X2,lipo cells
+Battery,High-capacity battery module,EnerNext Batteries,"Austin, USA",Parrot,"Paris, France",Astro,lithium-ion cells
+Battery,Rugged battery pack,Samsung SDI,"Suwon, South Korea",ideaForge,"Mumbai, India",Typhoon H3,high-rate li-ion cells
+Battery,Long-endurance battery pack,LG Energy Solution,"Seoul, South Korea",Wingcopter,"Weiterstadt, Germany",Anafi Ai,high-energy li-ion cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",ideaForge,"Mumbai, India",Dragonfish,high-rate li-ion cells
+Battery,Hybrid battery module,DroneVolt Cells,"Lyon, France",Parrot,"Paris, France",DJI Mini 4 Pro,hybrid li-ion cells
+Battery,Rugged battery pack,OceanCell,"Rotterdam, Netherlands",DJI,"Shenzhen, China",NETRA V4,high-rate li-ion cells
+Battery,Rugged battery pack,DroneVolt Cells,"Lyon, France",ideaForge,"Mumbai, India",EVO Max 4T,high-rate li-ion cells
+Battery,Intelligent Battery Pack,LG Energy Solution,"Seoul, South Korea",Zipline,"South San Francisco, USA",Zipline P2,lipo cells
+Battery,Smart battery,SkyCharge Batteries,"Dublin, Ireland",Skydio,"San Mateo, USA",EVO II Pro,lipo cells
+Battery,Smart battery,CATL,"Ningde, China",Wingcopter,"Weiterstadt, Germany",Wingcopter 198,lipo cells
+Battery,Long-endurance battery pack,EnerNext Batteries,"Austin, USA",Parrot,"Paris, France",DJI Air 3,high-energy li-ion cells
+Battery,Hybrid battery module,LG Energy Solution,"Seoul, South Korea",Skydio,"San Mateo, USA",Mavic 3,hybrid li-ion cells
+Battery,Smart battery,AeroLith Labs,"San Jose, USA",Skydio,"San Mateo, USA",Anafi Ai,lipo cells
+Battery,Intelligent Battery Pack,OceanCell,"Rotterdam, Netherlands",Wingcopter,"Weiterstadt, Germany",Alta X,lipo cells
+Battery,High-capacity battery module,LG Energy Solution,"Seoul, South Korea",Yuneec,"Jinhua, China",EVO Max 4T,lithium-ion cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",ideaForge,"Mumbai, India",Dragonfish,high-rate li-ion cells
+Battery,Smart battery,DroneVolt Cells,"Lyon, France",Wingcopter,"Weiterstadt, Germany",Typhoon H3,lipo cells
+Battery,Hybrid battery module,AeroLith Labs,"San Jose, USA",Wingcopter,"Weiterstadt, Germany",Anafi USA,hybrid li-ion cells
+Battery,Intelligent Battery Pack,EnerNext Batteries,"Austin, USA",Skydio,"San Mateo, USA",DJI Mini 4 Pro,lipo cells
+Battery,Long-endurance battery pack,BYD,"Dongguan, China",Parrot,"Paris, France",Zipline P2,high-energy li-ion cells
+Battery,Hybrid battery module,BYD,"Dongguan, China",Yuneec,"Jinhua, China",NETRA V4,hybrid li-ion cells
+Battery,High-capacity battery module,EnerNext Batteries,"Austin, USA",Wingcopter,"Weiterstadt, Germany",DJI Mini 4 Pro,lithium-ion cells
+Battery,High-capacity battery module,FutureVolt,"Bangalore, India",Zipline,"South San Francisco, USA",Skydio X2,lithium-ion cells
+Battery,Rugged battery pack,SkyCharge Batteries,"Dublin, Ireland",Autel Robotics,"Shenzhen, China",DJI Air 3,high-rate li-ion cells
+Battery,High-capacity battery module,Panasonic Energy,"Osaka, Japan",DJI,"Shenzhen, China",Anafi Ai,lithium-ion cells
+Battery,Rugged battery pack,Panasonic Energy,"Osaka, Japan",Zipline,"South San Francisco, USA",Skydio 2+,high-rate li-ion cells
+Battery,High-capacity battery module,CATL,"Ningde, China",Freefly Systems,"Woodinville, USA",DJI Mini 4 Pro,lithium-ion cells
+Battery,Hybrid battery module,LG Energy Solution,"Seoul, South Korea",DJI,"Shenzhen, China",Typhoon H3,hybrid li-ion cells
+Battery,Rugged battery pack,OceanCell,"Rotterdam, Netherlands",Yuneec,"Jinhua, China",Anafi USA,high-rate li-ion cells
+Battery,Hybrid battery module,CATL,"Ningde, China",ideaForge,"Mumbai, India",Skydio X2,hybrid li-ion cells
+Battery,Intelligent Battery Pack,AeroLith Labs,"San Jose, USA",DJI,"Shenzhen, China",DJI Air 3,lipo cells
+Battery,Rugged battery pack,Samsung SDI,"Suwon, South Korea",Yuneec,"Jinhua, China",Matrice 350 RTK,high-rate li-ion cells
+Battery,Long-endurance battery pack,AeroLith Labs,"San Jose, USA",Autel Robotics,"Shenzhen, China",EVO Max 4T,high-energy li-ion cells
+Battery,Smart battery,Samsung SDI,"Suwon, South Korea",ideaForge,"Mumbai, India",H520E,lipo cells
+Battery,Long-endurance battery pack,BYD,"Dongguan, China",Parrot,"Paris, France",Astro,high-energy li-ion cells
+Battery,Rugged battery pack,FutureVolt,"Bangalore, India",Skydio,"San Mateo, USA",Alta X,high-rate li-ion cells
+Battery,Smart battery,Samsung SDI,"Suwon, South Korea",ideaForge,"Mumbai, India",DJI Mini 4 Pro,lipo cells
+Battery,Smart battery,SkyCharge Batteries,"Dublin, Ireland",Zipline,"South San Francisco, USA",Astro,lipo cells
+Battery,Intelligent Battery Pack,PolarEnergy,"Reykjavik, Iceland",Yuneec,"Jinhua, China",Wingcopter 198,lipo cells
+Battery,Hybrid battery module,Samsung SDI,"Suwon, South Korea",Autel Robotics,"Shenzhen, China",Wingcopter 198,hybrid li-ion cells
+Battery,Long-endurance battery pack,EnerNext Batteries,"Austin, USA",Wingcopter,"Weiterstadt, Germany",Dragonfish,high-energy li-ion cells
+Battery,Rugged battery pack,Samsung SDI,"Suwon, South Korea",Wingcopter,"Weiterstadt, Germany",EVO II Pro,high-rate li-ion cells
+Battery,High-capacity battery module,EnerNext Batteries,"Austin, USA",Autel Robotics,"Shenzhen, China",DJI Air 3,lithium-ion cells
+Battery,Long-endurance battery pack,SkyCharge Batteries,"Dublin, Ireland",Parrot,"Paris, France",Typhoon H3,high-energy li-ion cells
+Battery,Long-endurance battery pack,OceanCell,"Rotterdam, Netherlands",DJI,"Shenzhen, China",EVO Max 4T,high-energy li-ion cells
+Battery,Intelligent Battery Pack,CATL,"Ningde, China",Freefly Systems,"Woodinville, USA",Typhoon H3,lipo cells
+Battery,Rugged battery pack,FutureVolt,"Bangalore, India",ideaForge,"Mumbai, India",Skydio X2,high-rate li-ion cells
+Battery,Intelligent Battery Pack,Samsung SDI,"Suwon, South Korea",Autel Robotics,"Shenzhen, China",EVO II Pro,lipo cells
+Battery,Intelligent Battery Pack,PolarEnergy,"Reykjavik, Iceland",Skydio,"San Mateo, USA",EVO II Pro,lipo cells
+Battery,Intelligent Battery Pack,FutureVolt,"Bangalore, India",DJI,"Shenzhen, China",Zipline P2,lipo cells
+Battery,Intelligent Battery Pack,OceanCell,"Rotterdam, Netherlands",Yuneec,"Jinhua, China",EVO Max 4T,lipo cells
+Battery,Hybrid battery module,SkyCharge Batteries,"Dublin, Ireland",Skydio,"San Mateo, USA",NETRA V4,hybrid li-ion cells
+Battery,High-capacity battery module,EnerNext Batteries,"Austin, USA",Wingcopter,"Weiterstadt, Germany",Typhoon H3,lithium-ion cells
+Battery,Rugged battery pack,PolarEnergy,"Reykjavik, Iceland",Freefly Systems,"Woodinville, USA",EVO Max 4T,high-rate li-ion cells
+Battery,Intelligent Battery Pack,CATL,"Ningde, China",Skydio,"San Mateo, USA",Astro,lipo cells
+Battery,Long-endurance battery pack,CATL,"Ningde, China",DJI,"Shenzhen, China",Astro,high-energy li-ion cells
+Battery,Hybrid battery module,LG Energy Solution,"Seoul, South Korea",Wingcopter,"Weiterstadt, Germany",Skydio X2,hybrid li-ion cells
+Battery,High-capacity battery module,SkyCharge Batteries,"Dublin, Ireland",Autel Robotics,"Shenzhen, China",Skydio X2,lithium-ion cells
+Battery,Hybrid battery module,EnerNext Batteries,"Austin, USA",Freefly Systems,"Woodinville, USA",NETRA V4,hybrid li-ion cells
+Battery,High-capacity battery module,Samsung SDI,"Suwon, South Korea",Wingcopter,"Weiterstadt, Germany",DJI Mini 4 Pro,lithium-ion cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",DJI,"Shenzhen, China",Mavic 3,high-rate li-ion cells
+Battery,Smart battery,SkyCharge Batteries,"Dublin, Ireland",DJI,"Shenzhen, China",Anafi Ai,lipo cells
+Battery,Intelligent Battery Pack,DroneVolt Cells,"Lyon, France",Zipline,"South San Francisco, USA",DJI Air 3,lipo cells
+Battery,High-capacity battery module,CATL,"Ningde, China",Skydio,"San Mateo, USA",Alta X,lithium-ion cells
+Battery,Hybrid battery module,FutureVolt,"Bangalore, India",DJI,"Shenzhen, China",Astro,hybrid li-ion cells
+Battery,Smart battery,DroneVolt Cells,"Lyon, France",Parrot,"Paris, France",Skydio X2,lipo cells
+Battery,Intelligent Battery Pack,DroneVolt Cells,"Lyon, France",ideaForge,"Mumbai, India",Anafi USA,lipo cells
+Battery,Smart battery,LG Energy Solution,"Seoul, South Korea",Wingcopter,"Weiterstadt, Germany",Anafi Ai,lipo cells
+Battery,Smart battery,Panasonic Energy,"Osaka, Japan",Autel Robotics,"Shenzhen, China",H520E,lipo cells
+Battery,Long-endurance battery pack,Panasonic Energy,"Osaka, Japan",DJI,"Shenzhen, China",EVO Max 4T,high-energy li-ion cells
+Battery,Hybrid battery module,Panasonic Energy,"Osaka, Japan",Wingcopter,"Weiterstadt, Germany",Zipline P2,hybrid li-ion cells
+Battery,Smart battery,Samsung SDI,"Suwon, South Korea",Zipline,"South San Francisco, USA",Typhoon H3,lipo cells
+Battery,Long-endurance battery pack,BYD,"Dongguan, China",Parrot,"Paris, France",Wingcopter 198,high-energy li-ion cells
+Battery,Intelligent Battery Pack,FutureVolt,"Bangalore, India",Zipline,"South San Francisco, USA",Skydio 2+,lipo cells
+Battery,High-capacity battery module,EnerNext Batteries,"Austin, USA",Skydio,"San Mateo, USA",Matrice 350 RTK,lithium-ion cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",Zipline,"South San Francisco, USA",Anafi USA,high-rate li-ion cells
+Battery,Long-endurance battery pack,FutureVolt,"Bangalore, India",ideaForge,"Mumbai, India",Anafi USA,high-energy li-ion cells
+Battery,Hybrid battery module,FutureVolt,"Bangalore, India",Zipline,"South San Francisco, USA",Zipline P2,hybrid li-ion cells
+Battery,Long-endurance battery pack,SkyCharge Batteries,"Dublin, Ireland",Autel Robotics,"Shenzhen, China",Alta X,high-energy li-ion cells
+Battery,High-capacity battery module,CATL,"Ningde, China",ideaForge,"Mumbai, India",Dragonfish,lithium-ion cells
+Battery,High-capacity battery module,FutureVolt,"Bangalore, India",ideaForge,"Mumbai, India",H520E,lithium-ion cells
+Battery,Hybrid battery module,FutureVolt,"Bangalore, India",Skydio,"San Mateo, USA",Skydio X2,hybrid li-ion cells
+Battery,Rugged battery pack,DroneVolt Cells,"Lyon, France",Autel Robotics,"Shenzhen, China",Anafi Ai,high-rate li-ion cells
+Battery,Smart battery,PolarEnergy,"Reykjavik, Iceland",Freefly Systems,"Woodinville, USA",Skydio 2+,lipo cells
+Battery,Smart battery,Samsung SDI,"Suwon, South Korea",Parrot,"Paris, France",Zipline P2,lipo cells
+Battery,Hybrid battery module,BYD,"Dongguan, China",Zipline,"South San Francisco, USA",Typhoon H3,hybrid li-ion cells
+Battery,High-capacity battery module,BYD,"Dongguan, China",DJI,"Shenzhen, China",Typhoon H3,lithium-ion cells
+Battery,High-capacity battery module,CATL,"Ningde, China",ideaForge,"Mumbai, India",Mavic 3,lithium-ion cells
+Battery,Intelligent Battery Pack,CATL,"Ningde, China",Freefly Systems,"Woodinville, USA",Alta X,lipo cells
+Battery,High-capacity battery module,AeroLith Labs,"San Jose, USA",Wingcopter,"Weiterstadt, Germany",NETRA V4,lithium-ion cells
+Battery,Hybrid battery module,FutureVolt,"Bangalore, India",Freefly Systems,"Woodinville, USA",Mavic 3,hybrid li-ion cells
+Battery,Hybrid battery module,LG Energy Solution,"Seoul, South Korea",Freefly Systems,"Woodinville, USA",EVO Max 4T,hybrid li-ion cells
+Battery,Hybrid battery module,FutureVolt,"Bangalore, India",Wingcopter,"Weiterstadt, Germany",Zipline P2,hybrid li-ion cells
+Battery,Long-endurance battery pack,Samsung SDI,"Suwon, South Korea",Autel Robotics,"Shenzhen, China",EVO Max 4T,high-energy li-ion cells
+Battery,Smart battery,SkyCharge Batteries,"Dublin, Ireland",Parrot,"Paris, France",DJI Mini 4 Pro,lipo cells
+Battery,Smart battery,AeroLith Labs,"San Jose, USA",Wingcopter,"Weiterstadt, Germany",Zipline P2,lipo cells
+Battery,Long-endurance battery pack,LG Energy Solution,"Seoul, South Korea",Autel Robotics,"Shenzhen, China",Skydio X2,high-energy li-ion cells
+Battery,Long-endurance battery pack,Samsung SDI,"Suwon, South Korea",Zipline,"South San Francisco, USA",DJI Mini 4 Pro,high-energy li-ion cells
+Battery,Long-endurance battery pack,Samsung SDI,"Suwon, South Korea",Zipline,"South San Francisco, USA",Zipline P2,high-energy li-ion cells
+Battery,Hybrid battery module,OceanCell,"Rotterdam, Netherlands",ideaForge,"Mumbai, India",Alta X,hybrid li-ion cells
+Battery,Long-endurance battery pack,FutureVolt,"Bangalore, India",ideaForge,"Mumbai, India",DJI Mini 4 Pro,high-energy li-ion cells
+Battery,Long-endurance battery pack,Samsung SDI,"Suwon, South Korea",ideaForge,"Mumbai, India",Zipline P2,high-energy li-ion cells
+Battery,High-capacity battery module,CATL,"Ningde, China",ideaForge,"Mumbai, India",Matrice 350 RTK,lithium-ion cells
+Battery,Hybrid battery module,PolarEnergy,"Reykjavik, Iceland",Skydio,"San Mateo, USA",Mavic 3,hybrid li-ion cells
+Battery,Hybrid battery module,OceanCell,"Rotterdam, Netherlands",Autel Robotics,"Shenzhen, China",Skydio X2,hybrid li-ion cells
+Battery,Rugged battery pack,Panasonic Energy,"Osaka, Japan",Wingcopter,"Weiterstadt, Germany",DJI Mini 4 Pro,high-rate li-ion cells
+Battery,Hybrid battery module,PolarEnergy,"Reykjavik, Iceland",Zipline,"South San Francisco, USA",Dragonfish,hybrid li-ion cells
+Battery,Intelligent Battery Pack,AeroLith Labs,"San Jose, USA",Wingcopter,"Weiterstadt, Germany",EVO Max 4T,lipo cells
+Battery,Intelligent Battery Pack,SkyCharge Batteries,"Dublin, Ireland",Freefly Systems,"Woodinville, USA",Anafi Ai,lipo cells
+Battery,High-capacity battery module,CATL,"Ningde, China",Skydio,"San Mateo, USA",Alta X,lithium-ion cells
+Battery,Long-endurance battery pack,FutureVolt,"Bangalore, India",ideaForge,"Mumbai, India",DJI Mini 4 Pro,high-energy li-ion cells
+Battery,Intelligent Battery Pack,LG Energy Solution,"Seoul, South Korea",Zipline,"South San Francisco, USA",NETRA V4,lipo cells
+Battery,Long-endurance battery pack,AeroLith Labs,"San Jose, USA",Freefly Systems,"Woodinville, USA",Skydio 2+,high-energy li-ion cells
+Battery,High-capacity battery module,OceanCell,"Rotterdam, Netherlands",Wingcopter,"Weiterstadt, Germany",Skydio X2,lithium-ion cells
+Battery,Smart battery,BYD,"Dongguan, China",Skydio,"San Mateo, USA",NETRA V4,lipo cells
+Battery,High-capacity battery module,DroneVolt Cells,"Lyon, France",Parrot,"Paris, France",Anafi USA,lithium-ion cells
+Battery,Long-endurance battery pack,AeroLith Labs,"San Jose, USA",ideaForge,"Mumbai, India",DJI Mini 4 Pro,high-energy li-ion cells
+Battery,Long-endurance battery pack,OceanCell,"Rotterdam, Netherlands",DJI,"Shenzhen, China",Typhoon H3,high-energy li-ion cells
+Battery,Long-endurance battery pack,BYD,"Dongguan, China",Yuneec,"Jinhua, China",Dragonfish,high-energy li-ion cells
+Battery,Hybrid battery module,OceanCell,"Rotterdam, Netherlands",Wingcopter,"Weiterstadt, Germany",Zipline P2,hybrid li-ion cells
+Battery,Rugged battery pack,CATL,"Ningde, China",Freefly Systems,"Woodinville, USA",Alta X,high-rate li-ion cells
+Battery,Rugged battery pack,SkyCharge Batteries,"Dublin, Ireland",Parrot,"Paris, France",Typhoon H3,high-rate li-ion cells
+Battery,Smart battery,Panasonic Energy,"Osaka, Japan",Parrot,"Paris, France",Zipline P2,lipo cells
+Battery,High-capacity battery module,PolarEnergy,"Reykjavik, Iceland",DJI,"Shenzhen, China",Anafi Ai,lithium-ion cells
+Battery,Long-endurance battery pack,PolarEnergy,"Reykjavik, Iceland",DJI,"Shenzhen, China",Mavic 3,high-energy li-ion cells
+Battery,Smart battery,Panasonic Energy,"Osaka, Japan",Zipline,"South San Francisco, USA",Wingcopter 198,lipo cells
+Battery,Rugged battery pack,Samsung SDI,"Suwon, South Korea",Parrot,"Paris, France",H520E,high-rate li-ion cells
+Battery,Smart battery,FutureVolt,"Bangalore, India",Skydio,"San Mateo, USA",Mavic 3,lipo cells
+Battery,Intelligent Battery Pack,EnerNext Batteries,"Austin, USA",ideaForge,"Mumbai, India",Mavic 3,lipo cells
+Battery,High-capacity battery module,OceanCell,"Rotterdam, Netherlands",DJI,"Shenzhen, China",Wingcopter 198,lithium-ion cells
+Battery,Long-endurance battery pack,EnerNext Batteries,"Austin, USA",ideaForge,"Mumbai, India",H520E,high-energy li-ion cells
+Battery,Intelligent Battery Pack,Samsung SDI,"Suwon, South Korea",Parrot,"Paris, France",Skydio 2+,lipo cells
+Battery,Hybrid battery module,Samsung SDI,"Suwon, South Korea",Zipline,"South San Francisco, USA",DJI Mini 4 Pro,hybrid li-ion cells
+Battery,Smart battery,OceanCell,"Rotterdam, Netherlands",Parrot,"Paris, France",H520E,lipo cells
+Battery,Smart battery,SkyCharge Batteries,"Dublin, Ireland",Autel Robotics,"Shenzhen, China",Wingcopter 198,lipo cells
+Battery,Rugged battery pack,PolarEnergy,"Reykjavik, Iceland",ideaForge,"Mumbai, India",Dragonfish,high-rate li-ion cells
+Battery,Intelligent Battery Pack,LG Energy Solution,"Seoul, South Korea",Skydio,"San Mateo, USA",Zipline P2,lipo cells
+Battery,Smart battery,AeroLith Labs,"San Jose, USA",Wingcopter,"Weiterstadt, Germany",Dragonfish,lipo cells
+Battery,Long-endurance battery pack,Panasonic Energy,"Osaka, Japan",Skydio,"San Mateo, USA",Matrice 350 RTK,high-energy li-ion cells
+Battery,Smart battery,AeroLith Labs,"San Jose, USA",Freefly Systems,"Woodinville, USA",EVO II Pro,lipo cells
+Battery,Hybrid battery module,OceanCell,"Rotterdam, Netherlands",Parrot,"Paris, France",Anafi Ai,hybrid li-ion cells
+Battery,Rugged battery pack,SkyCharge Batteries,"Dublin, Ireland",ideaForge,"Mumbai, India",Mavic 3,high-rate li-ion cells
+Battery,Hybrid battery module,PolarEnergy,"Reykjavik, Iceland",Yuneec,"Jinhua, China",DJI Air 3,hybrid li-ion cells
+Battery,Intelligent Battery Pack,BYD,"Dongguan, China",ideaForge,"Mumbai, India",Anafi Ai,lipo cells
+Battery,Smart battery,OceanCell,"Rotterdam, Netherlands",DJI,"Shenzhen, China",NETRA V4,lipo cells
+Battery,Smart battery,CATL,"Ningde, China",DJI,"Shenzhen, China",DJI Mini 4 Pro,lipo cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",Freefly Systems,"Woodinville, USA",Astro,high-rate li-ion cells
+Battery,High-capacity battery module,Samsung SDI,"Suwon, South Korea",Parrot,"Paris, France",DJI Mini 4 Pro,lithium-ion cells
+Battery,Hybrid battery module,Samsung SDI,"Suwon, South Korea",DJI,"Shenzhen, China",NETRA V4,hybrid li-ion cells
+Battery,Rugged battery pack,CATL,"Ningde, China",Parrot,"Paris, France",DJI Mini 4 Pro,high-rate li-ion cells
+Battery,High-capacity battery module,BYD,"Dongguan, China",Yuneec,"Jinhua, China",NETRA V4,lithium-ion cells
+Battery,Hybrid battery module,AeroLith Labs,"San Jose, USA",Freefly Systems,"Woodinville, USA",Anafi Ai,hybrid li-ion cells
+Battery,Hybrid battery module,LG Energy Solution,"Seoul, South Korea",Freefly Systems,"Woodinville, USA",Alta X,hybrid li-ion cells
+Battery,Smart battery,CATL,"Ningde, China",Autel Robotics,"Shenzhen, China",Zipline P2,lipo cells
+Battery,High-capacity battery module,Samsung SDI,"Suwon, South Korea",Autel Robotics,"Shenzhen, China",Anafi USA,lithium-ion cells
+Battery,Smart battery,LG Energy Solution,"Seoul, South Korea",ideaForge,"Mumbai, India",EVO II Pro,lipo cells
+Battery,High-capacity battery module,SkyCharge Batteries,"Dublin, Ireland",Wingcopter,"Weiterstadt, Germany",NETRA V4,lithium-ion cells
+Battery,Smart battery,DroneVolt Cells,"Lyon, France",Freefly Systems,"Woodinville, USA",Zipline P2,lipo cells
+Battery,Smart battery,SkyCharge Batteries,"Dublin, Ireland",Freefly Systems,"Woodinville, USA",Zipline P2,lipo cells
+Battery,Hybrid battery module,AeroLith Labs,"San Jose, USA",Autel Robotics,"Shenzhen, China",Skydio X2,hybrid li-ion cells
+Battery,Intelligent Battery Pack,PolarEnergy,"Reykjavik, Iceland",DJI,"Shenzhen, China",EVO II Pro,lipo cells
+Battery,Rugged battery pack,LG Energy Solution,"Seoul, South Korea",Freefly Systems,"Woodinville, USA",Dragonfish,high-rate li-ion cells
+Battery,Smart battery,FutureVolt,"Bangalore, India",Parrot,"Paris, France",Skydio X2,lipo cells
+Battery,Hybrid battery module,Samsung SDI,"Suwon, South Korea",Parrot,"Paris, France",Matrice 350 RTK,hybrid li-ion cells
